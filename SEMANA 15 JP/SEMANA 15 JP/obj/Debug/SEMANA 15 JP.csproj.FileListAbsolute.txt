@@ -1,0 +1,7 @@
+C:\Users\UPN\Desktop\SEMANA 15 JP\SEMANA 15 JP\bin\Debug\SEMANA 15 JP.exe.config
+C:\Users\UPN\Desktop\SEMANA 15 JP\SEMANA 15 JP\bin\Debug\SEMANA 15 JP.exe
+C:\Users\UPN\Desktop\SEMANA 15 JP\SEMANA 15 JP\bin\Debug\SEMANA 15 JP.pdb
+C:\Users\UPN\Desktop\SEMANA 15 JP\SEMANA 15 JP\obj\Debug\SEMANA 15 JP.csproj.AssemblyReference.cache
+C:\Users\UPN\Desktop\SEMANA 15 JP\SEMANA 15 JP\obj\Debug\SEMANA 15 JP.csproj.CoreCompileInputs.cache
+C:\Users\UPN\Desktop\SEMANA 15 JP\SEMANA 15 JP\obj\Debug\SEMANA 15 JP.exe
+C:\Users\UPN\Desktop\SEMANA 15 JP\SEMANA 15 JP\obj\Debug\SEMANA 15 JP.pdb
